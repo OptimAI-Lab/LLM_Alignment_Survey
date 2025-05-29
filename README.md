@@ -10,28 +10,12 @@ This article provides an introduction to the mathematical foundations and algori
 
 *Figure: Overview of the alignment framework and methodologies discussed in this survey.*
 
-## Overview
-
-This repository contains materials related to the survey paper on aligning large language models with human feedback. The paper covers:
-
-- **Mathematical Foundations**: Theoretical underpinnings of alignment techniques
-- **Standard Alignment Techniques**:
-  - Supervised Fine-Tuning (SFT)
-  - Reinforcement Learning with Human Feedback (RLHF)
-  - Direct Preference Optimization (DPO)
-- **Theoretical Connections**: Links to inverse reinforcement learning (IRL) and discrete choice models
-- **Practical Implementation**: State-of-the-art algorithms with tutorial-style explanations
-- **Framework Development**: Guidelines for developing robust and scalable alignment techniques
-
 ## Key Topics
 
-1. Learning from Human Preferences
-2. Inverse Reinforcement Learning (IRL)
-3. Discrete Choice Models
-4. Alignment Methodologies
-5. Algorithm Design and Implementation
-6. Practical Considerations and Limitations
+1. Learning from Human Preferences, Reinforcement Learning from Human Feedback
+2. Learning from Demonstrations, Inverse Reinforcement Learning
+3. Alignment Methodologies
+4. Algorithm Design and Implementation
+5. Practical Considerations and Limitations
 
 ---
-
-*This work represents a collaborative effort between researchers from leading institutions to provide a comprehensive resource for the LLM alignment community.*
