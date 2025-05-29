@@ -24,7 +24,7 @@ This article provides an introduction to the mathematical foundations and algori
 
 ## Alignment Framework Illustration
 
-![Alignment Illustration](images/alignment_illustration.pdf)
+![Alignment Illustration](./images/illustration.png)
 
 *Figure: Overview of the alignment framework and methodologies discussed in this survey.*
 
