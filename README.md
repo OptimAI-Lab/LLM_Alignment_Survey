@@ -18,4 +18,15 @@ This article provides an introduction to the mathematical foundations and algori
 4. Algorithm Design and Implementation
 5. Practical Considerations and Limitations
 
+## Citation
+
+```
+@article{zeng2025aligning,
+  title={Aligning Large Language Models with Human Feedback: Mathematical Foundations and Algorithm Design},
+  author={Zeng, Siliang and Viano, Luca and Li, Chenliang and Li, Jiaxiang and Cevher, Volkan and Wulfmeier, Markus and Ermon, Stefano and Garcia, Alfredo and Hong, Mingyi},
+  year={2025}
+}
+```
+
 ---
+
